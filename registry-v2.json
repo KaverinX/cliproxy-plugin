@@ -1,0 +1,32 @@
+{
+  "schema_version": 2,
+  "plugins": [
+    {
+      "id": "qoder",
+      "name": "Qoder",
+      "description": "Qoder CN/Intl provider for CLIProxyAPI with device authorization and PAT login. Unmodified mmqz/cpa-multi-plugins binary distributed as a single-plugin archive.",
+      "author": "mmqz (upstream); KaverinX (distribution)",
+      "version": "0.8.68",
+      "repository": "https://github.com/KaverinX/cliproxy-plugin",
+      "homepage": "https://github.com/KaverinX/cliproxy-plugin#qoder",
+      "license": "MIT",
+      "tags": [
+        "Provider",
+        "OAuth",
+        "Qoder"
+      ],
+      "install": {
+        "type": "direct",
+        "artifacts": [
+          {
+            "goos": "linux",
+            "goarch": "amd64",
+            "url": "https://github.com/KaverinX/cliproxy-plugin/releases/download/v0.8.68/qoder_0.8.68_linux_amd64.zip",
+            "sha256": "db2abef7ce8b5e80869d9256dd7c451a6dff8e0f6ec58a6b693cdd4b20a81bda",
+            "size": 3427145
+          }
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "plugin_id": "qoder",
+  "release_tag": "v0.8.68",
+  "platform": "linux/amd64",
+  "source_repository": "https://github.com/mmqz/cpa-multi-plugins",
+  "source_release": "https://github.com/mmqz/cpa-multi-plugins/releases/tag/v0.8.68",
+  "source_asset": "https://github.com/mmqz/cpa-multi-plugins/releases/download/v0.8.68/cpa-multi-plugins-linux-amd64.zip",
+  "source_asset_sha256": "b54325f7c3426b0ca7083018e671af50f5e12b3311b42cefc2822cf573b910a5",
+  "github_asset_digest": "sha256:b54325f7c3426b0ca7083018e671af50f5e12b3311b42cefc2822cf573b910a5",
+  "original_library_path": "qoder.so",
+  "library_sha256": "94b1bc8b5350dfe30346c23effbb0c5c5e2be7a4ed0b7a13ac6d8d28287f2a68",
+  "transformation": "Extracted unmodified qoder.so into a single-plugin ZIP; included original MIT license."
+}

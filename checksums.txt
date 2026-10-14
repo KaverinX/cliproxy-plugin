@@ -1,0 +1,1 @@
+db2abef7ce8b5e80869d9256dd7c451a6dff8e0f6ec58a6b693cdd4b20a81bda  qoder_0.8.68_linux_amd64.zip

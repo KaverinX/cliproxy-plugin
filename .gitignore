@@ -1,0 +1,10 @@
+dist/
+*.so
+*.dylib
+*.dll
+*.zip
+.env
+.env.*
+.auth/
+auth/
+auths/
